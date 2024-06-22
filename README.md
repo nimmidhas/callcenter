@@ -12,7 +12,7 @@
         <nav>
             <ul>
                 <li><a href="C:\Users\DELL\Downloads\image3.jpg">Overview</a></li>
-                <li><a href="https://github.com/nimmidhas/test?tab=readme-ov-file#dashboard-link--httpsus3caanalyticsibmcombiperspectivedashboardpathrefmy_folders2fprojectcompleteactionviewmodedashboardsubviewmodel0000018fed11c2bc_00000006"</a></li>
+                <li><a href="https://github.com/nimmidhas/test?tab=readme-ov-file#dashboard-link--httpsus3caanalyticsibmcombiperspectivedashboardpathrefmy_folders2fprojectcompleteactionviewmodedashboardsubviewmodel0000018fed11c2bc_00000006">Dashboard</a></li>
                 <li><a href="https://www.spectrum.net/contact-us">Contact</a></li>
             </ul>
         </nav>
